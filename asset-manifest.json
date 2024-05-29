@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/best_perfume_for_teens/static/css/main.b8c4f85d.css",
+    "main.js": "/best_perfume_for_teens/static/js/main.e6af805e.js",
+    "static/js/453.2dda67c8.chunk.js": "/best_perfume_for_teens/static/js/453.2dda67c8.chunk.js",
+    "static/media/backround.jpg": "/best_perfume_for_teens/static/media/backround.ea227fde50173b563233.jpg",
+    "static/media/logo.svg": "/best_perfume_for_teens/static/media/logo.a925e51555f030559e7baca7ac3cf30c.svg",
+    "index.html": "/best_perfume_for_teens/index.html",
+    "main.b8c4f85d.css.map": "/best_perfume_for_teens/static/css/main.b8c4f85d.css.map",
+    "main.e6af805e.js.map": "/best_perfume_for_teens/static/js/main.e6af805e.js.map",
+    "453.2dda67c8.chunk.js.map": "/best_perfume_for_teens/static/js/453.2dda67c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c4f85d.css",
+    "static/js/main.e6af805e.js"
+  ]
+}
